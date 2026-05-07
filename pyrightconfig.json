@@ -1,0 +1,10 @@
+{
+  "typeCheckingMode": "basic",
+  "extraPaths": ["."],
+  "reportArgumentType": "none",
+  "reportCallIssue": "none",
+  "reportExplicitAny": "none",
+  "reportAny": "none",
+  "reportUnknownParameterType": "none",
+  "reportMissingParameterType": "none"
+}
